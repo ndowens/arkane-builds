@@ -37,6 +37,7 @@ vulkan-tools
 proton-cachyos
 wine-cachyos
 steam
+tailscale
 
 # Plasma extra
 bluez
