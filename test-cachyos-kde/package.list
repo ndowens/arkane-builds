@@ -1,5 +1,6 @@
 # Plasma
 bluedevil
+cachyos-fish-config
 cachyos-settings
 colord-kde
 discover
@@ -20,6 +21,7 @@ kpipewire
 kscreen
 kscreenlocker
 ksystemlog
+mosh
 partitionmanager
 plasma-desktop
 plasma-integration
