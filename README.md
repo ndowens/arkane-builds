@@ -1,1 +1,1 @@
-Custom build to make CachyOS immutable, beware vulkan will not work unless you have an Nvidia GPU as this setup also removes the other vulkan icd loaders that Nvidia don't use
+Custom build to make CachyOS immutable. Primary for nvidia as I have it setup to use nvidia drivers in profile.d
