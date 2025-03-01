@@ -5,6 +5,7 @@ cachyos-settings
 colord-kde
 discover
 dolphin
+fwupd
 kcolorchooser
 kcron
 kde-inotify-survey
