@@ -17,7 +17,6 @@ kio-admin
 kmix
 kmousetool
 kmouth
-konsole
 kpipewire
 kscreen
 kscreenlocker
@@ -44,8 +43,17 @@ vulkan-tools
 proton-cachyos
 wine-cachyos
 wireplumber
+wine-mono
+wine-gecko
 steam
 tailscale
+tinyxxd
+xdotool
+xorg-xprop
+xorg-xrandr
+xorg-xwininfo
+yad
+
 
 # Plasma extra
 bluez

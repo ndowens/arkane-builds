@@ -1,4 +1,6 @@
 base
+amd-ucode
+intel-ucode
 linux-firmware
 arkane-keyring
 dracut
