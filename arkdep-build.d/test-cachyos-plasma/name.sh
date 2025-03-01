@@ -1,1 +1,1 @@
-echo "cachyos-plasma-$(date +%Y-%m-%d)"
+echo "cachyos-plasma-v3-$(date +%Y-%m-%d)"
