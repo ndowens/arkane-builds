@@ -23,6 +23,9 @@ kscreenlocker
 ksystemlog
 mosh
 partitionmanager
+pipewire
+pipewire-jack
+pipewire-pulse
 plasma-desktop
 plasma-integration
 plasma-systemmonitor
@@ -39,6 +42,7 @@ lib32-vulkan-icd-loader
 vulkan-tools
 proton-cachyos
 wine-cachyos
+wireplumber
 steam
 tailscale
 
