@@ -18,6 +18,8 @@ egl-wayland
 libva-nvidia-driver
 lib32-opencl-nvidia
 vulkan-tools
+lib32-vulkan-radeon
+vulkan-radeon
 wine-cachyos
 wireplumber
 steam
