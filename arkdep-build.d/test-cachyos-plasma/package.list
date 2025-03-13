@@ -1,4 +1,6 @@
 # Plasma
+amdvlk
+lib32-amdvlk
 bluedevil
 cachyos-fish-config
 cachyos-settings
@@ -34,32 +36,20 @@ plasma-vault
 plasma-welcome
 plasma-workspace
 print-manager
-sddm
-sddm-kcm
+gdm
 spectacle
 vulkan-icd-loader
 lib32-vulkan-icd-loader
-nvidia-utils
-lib32-nvidia-utils
 egl-x11
 egl-wayland
-libva-nvidia-driver
-lib32-opencl-nvidia
 vulkan-tools
 proton-cachyos
 wine-cachyos
 wireplumber
-wine-mono
-wine-gecko
 steam
 tailscale
-tinyxxd
-xdotool
-xorg-xprop
-xorg-xrandr
-xorg-xwininfo
-yad
-
+vulkan-radeon
+lib32-vulkan-radeon
 
 # Plasma extra
 bluez
