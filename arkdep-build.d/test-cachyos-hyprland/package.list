@@ -8,6 +8,7 @@ mosh
 pipewire
 pipewire-jack
 pipewire-pulse
+gamescope
 gdm
 hyprland
 hyprland-qt-support
